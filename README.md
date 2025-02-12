@@ -3,7 +3,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaootavioo_10/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joaootaviofm10/)
+#
 
+<p align="center">Estudante de Engenharia de Software, atualmente estudando Javascript, HTML, CSS e React para front end e JAVA e C# para back end.<br/>
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
+
+
+#
 ## Tecnologias:
 
 ### Frontend:
