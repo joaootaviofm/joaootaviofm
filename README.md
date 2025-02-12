@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joaootaviofm10/)
 #
-
 <p align="left">Estudante de Engenharia de Software, atualmente estudando Javascript, HTML, CSS e React para front end e JAVA e C# para back end.<br/>
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
 
