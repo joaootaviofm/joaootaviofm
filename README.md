@@ -8,7 +8,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **NextJS, React and JAVA**
+ 🌱 I’m currently learning **JAVA, SpringBoot and React**
 
  </div>
  
